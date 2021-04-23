@@ -1,0 +1,2 @@
+# CibilScoreProject
+A CIBIL Score is a consumer's credit score. Simply put, this is a three-digit numeric summary of a consumer's credit history and a reflection of the person's credit profile. This is based on past credit behavior, such as borrowing and repayment habits as shared by banks and lenders with CIBIL on a regular basis (the details of which are featured in the consumer's CIBIL Report). 
